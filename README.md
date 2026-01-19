@@ -9,3 +9,9 @@ This project demonstrates a simple linear regression model to predict salary pac
 - Linear regression using scikit-learn
 - Visualization with seaborn
 
+#Rrequirements
+-pandas
+-matplotlib
+-seaborn
+-scikit-learn
+
